@@ -7,6 +7,13 @@ h2 {
     font-family: 'Oswald', sans-serif;
 }
 
+h3 {
+    font-family: 'Changa One', cursive;
+    font-size: 40px;
+    color: red;
+    letter-spacing: 10px;
+}
+
 hr {
     border: 0;
     height: 1px;
@@ -27,7 +34,6 @@ span {
 }
 
 .donutclass {
-    height: 3000px;
     width: 800px;
     border: 1px solid;
     margin: auto;
@@ -37,11 +43,35 @@ span {
     background: #cccccc;
 }
 #donuts1 {
-    width: 400px;
+    width: 200px;
 }
 #Rdonuts {
     width: 400px;
+    float: left;
 }
 #eyedonut {
     width: 400px;
+    
+}
+#par1 {
+    float: left;
+}
+#par2 {
+    float:right ;
+}
+
+.blue-button {
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 20px;
+    height: 50px;
+}
+
+.blue-button:hover {
+    background: #3cb0fd;
 }
