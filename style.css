@@ -1,31 +1,47 @@
 h1 {
     color: red;
 }
-h1, h2 {
+
+h1,
+h2 {
     font-family: 'Oswald', sans-serif;
 }
+
 hr {
     border: 0;
     height: 1px;
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+
 #D {
     text-align: center;
 }
+
 p {
     font-family: 'Cantarell', sans-serif;
 }
+
 span {
     font-style: italic;
 }
+
 .donutclass {
-    height: 3900px;
-  width: 800px;
-  border: 1px solid;
-  margin: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding: 10px 10px 10px 10px;
-  background: #cccccc;
+    height: 3000px;
+    width: 800px;
+    border: 1px solid;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px;
+    background: #cccccc;
+}
+#donuts1 {
+    width: 400px;
+}
+#Rdonuts {
+    width: 400px;
+}
+#eyedonut {
+    width: 400px;
 }
