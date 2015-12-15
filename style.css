@@ -48,10 +48,13 @@ span {
 #Rdonuts {
     width: 400px;
     float: left;
+    position: relative;
+    right: 3px;
 }
 #eyedonut {
     width: 400px;
-    
+     position: relative;
+    left: 3px;
 }
 #par1 {
     float: left;
