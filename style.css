@@ -73,4 +73,6 @@ span {
     margin: 2px;
     height: 50px;
 }
-
+#note {
+    font-family: 'Indie Flower', cursive;
+}
